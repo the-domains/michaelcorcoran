@@ -1,4 +1,20 @@
-analytics: {}
+name: michaelcorcoran
+favicon: null
+layout_spectrum: 0.6626978554099988
+typography_spectrum: 0.4284667314045719
+title: AppleLane WoodCraft
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -8,11 +24,9 @@ color:
     - '#FAD8D6'
   brandStrength: 0.013757932479121937
   lightness: 0.8778873494436499
-  rhythmicContrast: 0.10837551848019267
   saturation: 0.5829895994788993
-cta: {}
-layout_spectrum: 0.6626978554099988
-name: michaelcorcoran
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.4284667314045719
+  rhythmicContrast: 0.10837551848019267
+purpose:
+  - name: null
+    item: null
+    url: null
