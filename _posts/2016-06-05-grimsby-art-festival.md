@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Nicely arranged table, nana would be proud!'
-datePublished: '2016-06-05T15:26:17.089Z'
-dateModified: '2016-06-05T15:08:15.187Z'
-title: ''
-author: []
+description: Table laid out and ready to go!
+datePublished: '2016-06-05T16:13:12.969Z'
+dateModified: '2016-06-05T16:13:12.001Z'
+title: AppleLane WoodCraft at the Grimsby Art Festival
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-05-grimsby-art-festival.md
 authors: []
 publisher: null
@@ -18,18 +20,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Nicely arranged table, nana would be proud!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adf6ee35-82d8-4c30-b8c2-b89fdf4007aa.jpg)
-
-New platter boards
+![Nane would be proud of the table layout](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b3fad8a-6565-4193-9bdd-eec6c6a0d097.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d7316af-4d9a-4529-8c3f-5ea4ff3a278c.jpg)
-
-New counter top cutting boards
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f784f7d6-466c-42da-8487-07f87358d9bc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce98d0a2-8ce2-468b-b05c-88f9bf76f6e0.jpg)
-
-Great weather for the show all day..
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0112274-1c16-49b9-b876-b00dddb0713a.jpg)
-
-Nice piece from exotic woods made into mantle piece
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10857f13-5cb3-4ee8-b54f-5ffbbdffb930.jpg)
