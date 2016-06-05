@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Nicely arranged table, nana would be proud!'
-datePublished: '2016-06-05T15:08:08.812Z'
-dateModified: '2016-06-05T15:07:37.043Z'
+datePublished: '2016-06-05T15:26:17.089Z'
+dateModified: '2016-06-05T15:08:15.187Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-05-grimsby-art-festival.md
