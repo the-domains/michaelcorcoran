@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AppleLane WoodCraft]]></title>
         <description><![CDATA[AppleLane WoodCraft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michaelcorcoran/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 14:56:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Jun 2016 15:08:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michaelcorcoran/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
-            <description><![CDATA[<article><h1></h1><p></p></article>]]></description>
-            <link>undefined533ba168-24ca-4c50-a43c-806648322ba9/index.html</link>
+            <description><![CDATA[<p>Nicely arranged table, nana would be proud!</p>]]></description>
+            <link>https://thegrid.ai/michaelcorcoran/533ba168-24ca-4c50-a43c-806648322ba9/index.html</link>
             <guid isPermaLink="false">533ba168-24ca-4c50-a43c-806648322ba9</guid>
-            <pubDate>Sun, 05 Jun 2016 14:56:22 GMT</pubDate>
+            <pubDate>Sun, 05 Jun 2016 15:08:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
